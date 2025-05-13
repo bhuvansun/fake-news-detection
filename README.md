@@ -4,14 +4,14 @@ This project implements a Transformer-based classifier for detecting fake news. 
 
 ## Project Structure
 
-project/
-│
-├── main.ipynb                   # Main script
-├── custom.ipynb                 # Custom prompt file
-├── requirements.txt             # Python dependencies
-├── README.md                    # Detailed instructions for setup & rerun
-├── report.pdf                   # Two-page report with block diagram (or report.pdf after conversion)
-└── presentation.pptx            # 10-slide presentation outline (or converted to ppt)
+project/ <br>
+│ <br>
+├── main.ipynb                   # Main script <br>
+├── custom.ipynb                 # Custom prompt file <br>
+├── requirements.txt             # Python dependencies <br>
+├── README.md                    # Detailed instructions for setup & rerun <br>
+├── report.pdf                   # Two-page report with block diagram (or report.pdf after conversion) <br>
+└── presentation.pptx            # 10-slide presentation outline (or converted to ppt) <br>
 
 ## Setup and Installation
 
